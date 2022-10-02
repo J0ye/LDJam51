@@ -982,6 +982,10 @@ PrefabInstance:
       propertyPath: map
       value: 
       objectReference: {fileID: 319131039}
+    - target: {fileID: 4912297150720627612, guid: 069c27d0d0a27a2489a62d3e0a797f68, type: 3}
+      propertyPath: nextLevel
+      value: End
+      objectReference: {fileID: 0}
     - target: {fileID: 7040248009014142092, guid: 069c27d0d0a27a2489a62d3e0a797f68, type: 3}
       propertyPath: orthographic
       value: 1
